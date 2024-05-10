@@ -49,27 +49,27 @@ export default {
       carouselsData: [
         {
           src: 'pexels-andrea-piacquadio-3884440.jpg',
-          heading: ' PROMOTE YOUR BUSINESS WITH US ',
+          heading: 'Fast, Reliable, and Secure',
           subHeading:
-            'Infographic hypotheses influencer user experience Long madel ture gen-z paradigm shift client partner network product seilans solve management influencer analytics leverage virality. incubator seed round massmarket. buyer agile development growth hacking business-to-consumer ecosystem ',
+            'Do you need a quick financial boost to cover unexpected expenses, invest in a dream, or bridge a temporary gap? RPE Money Lending is here to help. We offer a streamlined loan application process, with quick approvals and fast access to funds. Our commitment to security ensures your information is always protected. With RPE, you get the reliability and speed you need, along with the peace of mind that comes with a secure lender.',
         },
         {
           src: 'pexels-peter-olexa-4012966.jpg',
-          heading: ' LOREM IPSUM DOLOR SIT AMET CONSEETU',
+          heading: 'Flexible Solutions for Every Need',
           subHeading:
-            'Litora a interdum primis. Lectus facilisi sit cum arcu aliquam velit imperdiet sapien suspendisse at vel facilisis. Facilisis metus, curae; nibh mi orci et. Fringilla sociis magna rutrum bibendum arcu.',
+            'Not all financial needs are created equal. At RPE Money Lending, we understand that. That is why we offer a variety of loan options to fit your specific situation. Whether you require a smaller loan for a short-term need or a larger one for a long-term goal, we have a solution for you. Our flexible repayment terms allow you to manage your loan comfortably,  ensuring a stress-free borrowing experience.',
         },
         {
           src: 'pexels-thirdman-5961072.jpg',
-          heading: ' Build your website with this Theme ',
+          heading: ' Local Expertise, National Strength ',
           subHeading:
-            'Tellus cum turpis natoque id justo interdum tincidunt faucibus aptent congue pellentesque. Proin luctus orci netus! Scelerisque parturient cursus donec parturient et, luctus aptent habitant aliquet felis. Sapien placerat ultricies.',
+            'RPE Money Lending is a Davao-based company,  deeply rooted in the Davao community. We understand the unique financial needs of our local residents and businesses. However, our reach extends beyond Davao. We leverage our national network to  provide you with access to competitive rates and a wider range of loan options. With RPE, you get the benefit of local expertise combined with the strength and resources of a national lender.',
         },
         {
           src: 'pexels-andrea-piacquadio-3830745.jpg',
-          heading: ' URNA TINCIDUNT MATTIS TORTOR ',
+          heading: ' Committed to Your Success ',
           subHeading:
-            'Dapibus cras, ligula suspendisse potenti himenaeos mus volutpat pulvinar est facilisi. Vehicula malesuada parturient euismod litora mollis penatibus. Penatibus cum nullam facilisi enim nisi ac suspendisse. Ullamcorper ad amet netus.',
+            'At RPE Money Lending, we believe in your success. Were more than just a lender; were your financial partner. Our dedicated team is here to guide you through the loan process, answer your questions, and provide you with the support you need. We want to see you achieve your financial goals, and we will work with you to create a personalized loan plan that sets you on the path to success.',
         },
       ],
     }
