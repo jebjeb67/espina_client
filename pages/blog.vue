@@ -27,23 +27,21 @@
                 </v-img>
                 <v-card-subtitle class="pb-0">
                   <v-btn href="#" text small color="primary" class="px-0"
-                    >Admin</v-btn
+                    >Jerick</v-btn
                   >
-                  <v-btn text small disabled class="px-0"
-                    >October 13, 2020</v-btn
-                  >
+                  <v-btn text small disabled class="px-0">May 15, 2023</v-btn>
                 </v-card-subtitle>
                 <v-card-text
                   class="title font-weight-bold mt-3 pb-0 text--primary"
                   style="line-height: 1.8rem"
                 >
-                  Check out the new mansion we got for our eSports team!
+                  Check out our new lending company
                 </v-card-text>
                 <v-card-text class="text--primary">
-                  An online streamer, also known as a live streamer, internet
-                  streamer, or streamer, is a person who broadcasts themself
-                  online through a live stream or pre-recorded video. The scope
-                  of online streamers has grown to includ...
+                  Espina Money Lending is a local, Davao City-based company
+                  dedicated to providing you with fast, accessible, and reliable
+                  financial solutions. We understand that unexpected expenses
+                  can arise, and we're here to help you bridge the gap.
                   <v-btn href="#" small text color="primary">Read More</v-btn>
                 </v-card-text>
 
@@ -173,7 +171,7 @@ export default {
     return {
       heroAlt: [
         {
-          src: 'pexels-andrea-piacquadio-3884440.jpg',
+          src: 'mitsubishi.jpg',
           heading: ' Blog ',
         },
       ],

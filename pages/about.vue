@@ -14,47 +14,41 @@
               <h3
                 class="text-h4 text-uppercase font-weight-thin text-center my-8"
               >
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit
+                We are the ESPINA Money Lending Company
               </h3>
             </v-col>
             <v-col cols="12" md="6">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat.
+                Espina Money Lending is a local, Davao City-based company
+                dedicated to providing you with fast, accessible, and reliable
+                financial solutions. We understand that unexpected expenses can
+                arise, and we're here to help you bridge the gap.
               </p>
               <blockquote class="text-h4 pa-5 my-4 font-weight-thin">
-                …Lorem Ipsum proin gravida nibh vel velit auctor aliquet. Aenean
-                sollicitudin, lorem quis
+                Espina Money Lending is here to help. We're committed to being
+                your trusted financial partner in Davao City.
               </blockquote>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat.
+                Visit us today or contact us to learn more about how we can help
+                you achieve your financial goals! Additional elements you can
+                consider adding (optional): Hours of Operation Contact
+                Information (phone number, email address) Website (if
+                applicable) Remember: Always borrow responsibly and ensure you
+                can repay the loan comfortably.
               </p>
             </v-col>
             <v-col cols="12" md="6">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium. Doloremque laudantium, totam rem aperiam, eaque
-                ipsa quae ab illo inventore veritatis et quasi architecto beatae
-                vitae dicta sunt explicabo. emo enim ipsam voluptatem quia
-                voluptas sit aspernatur aut odit aut fugit, sed quia
-                consequuntur magni dolores eos qui ratione voluptatem sequi
-                nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor
-                sit amet, consectetur, adipisci velit, sed quia non numquam eius
-                modi tempora incidunt ut labore et dolore magnam aliquam quaerat
-                voluptatem. Nemo enim ipsam voluptatem quia voluptas sit
-                aspernatur aut odit aut fugit
+                Here's what sets us apart: Fast and Efficient Service: We value
+                your time. Our streamlined application process ensures you
+                receive a quick decision on your loan request. Competitive Rates
+                and Flexible Terms: We offer competitive rates and flexible loan
+                terms to suit your individual needs and budget. Friendly and
+                Local Support: Our friendly staff is committed to providing you
+                with personalized service and answering all your questions.
+                Transparent Process: We believe in clear communication. You'll
+                always know exactly what to expect with our transparent loan
+                terms and fees.
               </p>
             </v-col>
           </v-row>

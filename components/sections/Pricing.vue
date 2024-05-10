@@ -8,13 +8,15 @@
               <h2
                 class="text-h4 text-md-h3 text-center font-weight-black text-capitalize mb-4"
               >
-                The most affordable pricing
+                The money heist
               </h2>
 
               <p class="my-10 title">
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-                diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-                aliquam erat volutpat.
+                Need a loan in a flash? RPE is your answer. Our website gets you
+                the money you need faster than ever before. Apply online in
+                minutes, get a decision in real-time, and have the funds in your
+                account as soon as the same day. RPE - the convenient and speedy
+                solution for your cash needs.
               </p>
               <div class="text-center">
                 <v-btn-toggle
@@ -86,7 +88,7 @@
                     rounded
                     class="mx-auto my-3"
                   >
-                    Buy Now
+                    Loan Now
                   </v-btn>
                 </v-list-item>
               </v-list>

@@ -6,15 +6,13 @@
           <v-icon x-large dark>mdi-web</v-icon>
         </v-avatar>
         <h2 class="text-h4 text-md-h3 text-center font-weight-black mb-7">
-          The Perfect Theme for Beginners or Professionals
+          The Perfect Site for Money Lending
         </h2>
         <p class="title font-weight-light">
-          ModeVue — is a carefully crafted multi-purpose, responsive, and
-          gorgeous theme. Built with
-          <strong>Vue.js</strong>
-          and
-          <strong>Nuxt.js</strong>, it comes with the features you need to
-          quickly start developing your application.
+          Skip the bank! RPE makes getting a loan simple. We know your time is
+          valuable. That's why our online application process is quick and
+          hassle-free. No long lines, no paperwork. Just a few clicks and you're
+          on your way to getting the money you need.
         </p>
       </v-responsive>
 
@@ -45,32 +43,3 @@
     </v-container>
   </section>
 </template>
-
-<script>
-export default {
-  data() {
-    return {
-      cards: [
-        {
-          title: 'Best Productivity',
-          subtitle: 'Professionally developed',
-          text: 'All components and features are developed using the most up-to-date coding practices.',
-          callout: '01',
-        },
-        {
-          title: 'Fast & optimized',
-          subtitle: 'Performance',
-          text: 'Themes are designed for maximum performance and are semantically structured to maximize SEO.',
-          callout: '02',
-        },
-        {
-          title: 'Built on Vuetify',
-          subtitle: 'Material Design',
-          text: "Being developed with Vuetify means you have access to all of the framework's available features.",
-          callout: '03',
-        },
-      ],
-    }
-  },
-}
-</script>

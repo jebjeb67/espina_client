@@ -9,11 +9,7 @@
           <h2 class="text-h4 text-sm-h3 text-capitalize font-weight-black mb-4">
             Our Core Team
           </h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-            nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-            volutpat.
-          </p>
+          <p>Built by the gods.</p>
         </v-col>
       </v-row>
       <v-row>

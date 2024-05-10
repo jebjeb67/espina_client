@@ -1,18 +1,7 @@
 <template>
   <section class="primary darken-1 white--text py-16">
     <v-container>
-      <v-row>
-        <v-col class="text-center">
-          <h2 class="text-h4 text-md-h3 text-center font-weight-black">
-            Build your website with this Theme
-          </h2>
-          <div
-            class="text-h5 text-md-h4 text-center font-weight-black py-3 mb-10"
-          >
-            Purchase now. Only $49!
-          </div>
-        </v-col>
-      </v-row>
+      <v-row> </v-row>
       <v-row>
         <v-col
           v-for="(card, index) in cards"
@@ -37,7 +26,7 @@
       </v-row>
       <v-row no-gutters>
         <v-btn x-large rounded color="white primary--text mx-auto mt-10 px-16">
-          <v-icon dark left> mdi-check-bold </v-icon>Buy It Now
+          Lend Now?
         </v-btn>
       </v-row>
     </v-container>
@@ -47,28 +36,7 @@
 <script>
 export default {
   data() {
-    return {
-      cards: [
-        {
-          title: 'Material Design',
-          subtitle: 'Best Productivity',
-          text: 'Similique sunt in culpa qui officia deserunt mollitia animi, id est laborut dolorum fuga.harum quidem rerum facilis estexpedita distinctio.',
-          callout: '01',
-        },
-        {
-          title: 'Affordable Prices',
-          subtitle: 'Special Offers',
-          text: 'Similique sunt in culpa qui officia deserunt mollitia animi, id est laborut dolorum fuga.harum quidem rerum facilis estexpedita distinctio.',
-          callout: '02',
-        },
-        {
-          title: 'Fast Loading',
-          subtitle: 'Income Flow',
-          text: 'Similique sunt in culpa qui officia deserunt mollitia animi, id est laborut dolorum fuga.harum quidem rerum facilis estexpedita distinctio.',
-          callout: '03',
-        },
-      ],
-    }
+    return {}
   },
 }
 </script>
